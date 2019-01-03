@@ -99,11 +99,9 @@ class BasicCalculator extends AbstractCalc {
 			return tokenized;
 		}
 	}
-
 	public int sum(int k1, int k2) {
 		return k1 + k2;
 	}
-
 	public double sum(double k1, double k2) {
 		return k1 + k2;
 	}
