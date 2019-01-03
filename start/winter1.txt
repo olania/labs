@@ -1,0 +1,7 @@
+In winter we have snow
+This winter there was no snow at all
+But lines like:
+Summer and winter are the favorite seasons of mine
+No info
+Have to be ignored.
+exit
